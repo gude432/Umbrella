@@ -1,0 +1,140 @@
+{
+"questions":
+
+{
+	"easy":[
+  
+	{
+	"question":"What do fizzy drinks and energy drinks cause to teeth?",
+	"option1":"Erosion",
+	"option2":"Whiten",
+	"option3":"Gingivitis",
+	"option4":"Abrasion"
+	},
+	{
+	"question":"When should you use xylitol products?",
+	"option1":"After every meal",
+	"option2":"Once a day",
+	"option3":"Before a meal",
+	"option4":"Once a week"
+	},
+	{
+	"question":"What is the most common mental health problem for young people?",
+	"option1":"Depression",
+	"option2":"Eating disorder",
+	"option3":"Psychosis",
+	"option4":"Game addiction"
+	},
+
+	{
+	"question":"A sufficient amount of sleep for a young person my ages is…",
+	"option1":"9-10 hrs",
+	"option2":"7-8 hrs",
+	"option3":"11-12 hrs",
+	"option4":"None"
+	},
+	{
+
+	"question": "What mental health illness might have symptoms of hearing voices and being delusional?",
+	"option1": "Psychosis",
+	"option2":"Bipolar disorder",
+	"option3": "Brain tumor",
+	"option4": "Eating disorder"	 		
+     },
+
+     {
+
+	"question": "How do sleep problems affect my everyday life?",
+	"option1": "They cause daytime tiredness",
+	"option2":"They make me feel more alert",
+	"option3": "They keep me healthy",
+	"option4": "No effect"	 		
+     },
+
+    {
+    "question": "What percentage of young people is bullied at school regularly?",
+	"option1": "10-15 %",
+	"option2":"1%",
+	"option3": "5%",
+	"option4": "85%"	 		
+     },
+
+    {
+    "question": "What is the most important meal of the day?",
+	"option1": "Breakfast",
+	"option2":"lunch",
+	"option3": "dinner",
+	"option4": "evening snack"	 		
+     },
+
+     {
+    "question": "How much fruit and vegetables should you eat per day?",
+	"option1": "500 g",
+	"option2":"1000 g",
+	"option3": "100 g",
+	"option4": "300 g"	 		
+     },
+
+	{
+	"question":"How many times a day should you eat?",
+	"option1":"Three times",
+	"option2":"Four times",
+	"option3":"Five times",
+	"option4":"Six times"
+	}
+],
+
+"medium" : [
+
+{
+	"question":"How many times a day should you eat?",
+	"option1":"Three times",
+	"option2":"Four times",
+	"option3":"Five times",
+	"option4":"Six times"
+	},
+
+	{
+	"question":"How many times a day should you eat?",
+	"option1":"Three times",
+	"option2":"Four times",
+	"option3":"Five times",
+	"option4":"Six times"
+	},
+   {
+	"question":"How many times a day should you eat?",
+	"option1":"Three times",
+	"option2":"Four times",
+	"option3":"Five times",
+	"option4":"Six times"
+	}
+	],
+
+"difficult" : [
+
+{
+	"question":"How many times a day should you eat?",
+	"option1":"Three times",
+	"option2":"Four times",
+	"option3":"Five times",
+	"option4":"Six times"
+	},
+
+	{
+	"question":"How many times a day should you eat?",
+	"option1":"Three times",
+	"option2":"Four times",
+	"option3":"Five times",
+	"option4":"Six times"
+	},
+   {
+	"question":"How many times a day should you eat?",
+	"option1":"Three times",
+	"option2":"Four times",
+	"option3":"Five times",
+	"option4":"Six times"
+	}
+
+	]
+}
+}

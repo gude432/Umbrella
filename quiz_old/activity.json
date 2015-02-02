@@ -1,0 +1,717 @@
+{
+"questions":
+
+{
+	"easy":
+	[
+    {
+        "question": "Mitä limut ja energiajuomat aiheuttavat hampaille?",
+        "option1": "Eroosiota",
+        "option2": "Valkaisevat",
+        "option3": "Ientulehdusta",
+        "option4": "Abraasiota"
+    },
+    {
+        "question": "Milloin ksylitol-tuotteita tulisi käyttää?",
+        "option1": "Ruokailun jälkeen",
+        "option2": "Kerran päivässä",
+        "option3": "Ennen ruokailua",
+        "option4": "Kerran viikossa"
+    },
+    {
+        "question": "Onko fluori hampaille tärkeä?",
+        "option1": "Kyllä",
+        "option2": "Ei",
+        "option3": "En tiedä",
+        "option4": "Fluori on myrkyllistä."
+    },
+    {
+        "question": "Miksi fluori on tärkeää hampaille?",
+        "option1": "Fluori vahvistaa kiillettä",
+        "option2": "Fluori valkaisee hampaita",
+        "option3": "Fluori ei ole tärkeä",
+        "option4": "Fluori ei tule käyttää"
+    },
+    {
+        "question": "Miten usein pitää harjata hampaat?",
+        "option1": "2 kertaa päivässä",
+        "option2": "5 kertaa päivässä",
+        "option3": "1 kerran viikosssa",
+        "option4": "1 kerran päivässä"
+    },
+    {
+        "question": "Kuinka paljon ksylitolia tulisi nauttia päivässä?",
+        "option1": "6-8 purukumi tai pastilli palaa",
+        "option2": "1-2 purukumi tai pastilli palaa",
+        "option3": "10 purukumi tai pastillipalaa",
+        "option4": "Ei ollenkaan"
+    },
+    {
+        "question": "Parhaassa ksylitoli-tuotteessa on..?",
+        "option1": "95-71% ksylitolia",
+        "option2": "40-45% ksylitolia",
+        "option3": "21-36% ksylitolia",
+        "option4": "1% ksylitolia"
+    },
+    {
+        "question": "Mikä on happohyäkkäys?",
+        "option1": "Bakteerien aineenvaihdunnasta johtuva happovaikutus",
+        "option2": "Happamien juomien juominen",
+        "option3": "Hapon heittäminen kaverin päälle",
+        "option4": "Närästys"
+    },
+    {
+        "question": "Kuinka paljon hammastahnaa tarvitsee hampaiden harjaukseen?",
+        "option1": "Herneen verran",
+        "option2": "Harjan pituuden verran",
+        "option3": "Nuppineulan pään verran",
+        "option4": "Koko tuubin"
+    },
+    {
+        "question": "Mitä nuuska aiheuttaa ikenille?",
+        "option1": "Limakalvovaurioita",
+        "option2": "ei mitään",
+        "option3": "tappaa bakteereita",
+        "option4": "parantaa makuaistia"
+    },
+    {
+        "question": "Mitä alkoholi voi pahimmillaan aiheuttaa suussa?",
+        "option1": "syäpää",
+        "option2": "rakkuloita",
+        "option3": "alkoholi ei vaikuta suuhun",
+        "option4": "pahaa makua"
+    },
+    {
+        "question": "Milloin hammasta täytyy porata ja paikata?",
+        "option1": "Kun hampaassa on karies vaurio",
+        "option2": "jos hampaassa on mustaa",
+        "option3": "jos hampaaseen sattuu",
+        "option4": "joa hammas on liian matala"
+    },
+    {
+        "question": "Tulisiko hammastahnassa olla fluoria?",
+        "option1": "Kyllä",
+        "option2": "Ei",
+        "option3": "Fluori ei ole tärkeä",
+        "option4": "fluori on myrkyllistä."
+    },
+    {
+        "question": "Mikä on abraasio?",
+        "option1": "Hampaan kuluminen",
+        "option2": "hampaan irtoaminen",
+        "option3": "Hampaan kylmettyminen",
+        "option4": "Lintu"
+    },
+    {
+        "question": "Mikä on attritio?",
+        "option1": "Hampaan kuluminen",
+        "option2": "Hampaan irtoaminen",
+        "option3": "Hampaan kylmettyminen",
+        "option4": "Kala"
+    },
+    {
+        "question": "Täytyykä viisaudenhampaat poistaa?",
+        "option1": "Ei välttämättä",
+        "option2": "kyllä",
+        "option3": "välittämästi kun ne puhkeavat",
+        "option4": "ei koskaan"
+    },
+    {
+        "question": "Mikä on hypoplasia?",
+        "option1": "Hampaan kehityshäiriä",
+        "option2": "Horrostila",
+        "option3": "Hampaan kuoleminen",
+        "option4": "Hammas vaurio"
+    },
+    {
+        "question": "Kuka huolehtii suusi terveydestä?",
+        "option1": "Minä itse",
+        "option2": "äiti",
+        "option3": "Hammaslääkäri",
+        "option4": "Mummi"
+    },
+    {
+        "question": "Onko hammas elävä?",
+        "option1": "Kyllä",
+        "option2": "Ei",
+        "option3": "Hammas on kuollut",
+        "option4": "on lapsena"
+    },
+    {
+        "question": "Vaikuttaako suunterveys muuhun kehoon?",
+        "option1": "Kyllä vaikuttaa.",
+        "option2": "Ei vaikuta millään tavalla.",
+        "option3": "Vaikuttaa vain pään alueeseen.",
+        "option4": "Vaikuttaa vain itsetuntoon."
+    },
+    {
+        "question": "Paras janojuoma?",
+        "option1": "On vesi.",
+        "option2": "On maito.",
+        "option3": "On limu.",
+        "option4": "On mehu."
+    },
+    {
+        "question": "Mitä on bruksaaminen?",
+        "option1": "Hampaiden pureminen yällä.",
+        "option2": "Hampaan halkeaminen.",
+        "option3": "Hampaan kuluminen.",
+        "option4": "Suuvedellä purskuttelu."
+    },
+    {
+        "question": "Onko maidon juonti hyväksi suunterveydelle?",
+        "option1": "Kyllä, maitoa on hyvä juoda ruokailun yhteydessä.",
+        "option2": "Maito ei sisällä mitään hyvää hampaille.",
+        "option3": "Maitoa tulisi juoda myäs janoon, koska se on niin hyvää hampaille.",
+        "option4": "Maito on vain hyväksi maitohampaille."
+    },
+    {
+        "question": "Milloin makean syänti aiheuttaa vähiten haittaa hampaille?",
+        "option1": "Heti ruokailun jälkeen.",
+        "option2": "Hampaiden pesun jälkeen.",
+        "option3": "Välipaloina.",
+        "option4": "Makeasta ei ole haittaa hampaillee, jos sillä korvaa yhden päivä aterien."
+    },
+    {
+        "question": "Terve ien on..?",
+        "option1": "Vaaleanpunainen eikä vuodaverta.",
+        "option2": "Kirkaan punainen.",
+        "option3": "Valkoinen.",
+        "option4": "Vertavuotava ja punainen."
+    },
+    {
+        "question": "Montako maitohammasta ihmisellä on?",
+        "option1": "20",
+        "option2": "24",
+        "option3": "32",
+        "option4": "28"
+    },
+    {
+        "question": "Minkä ikäisenä viisauden hampaat puhkeavat?",
+        "option1": "Yleensä 18 vuotiaana.",
+        "option2": "30 vuotiaana",
+        "option3": "14 vuotiaana",
+        "option4": "60 vuotiaana"
+    },
+    {
+        "question": "Miten alkoholi vaikuttaa hampaisiin?",
+        "option1": "Kuivattaa suuta ja lisää riskiä suusyäpään.",
+        "option2": "Ei mitenkään.",
+        "option3": "Lisää syljen tuotantoa.",
+        "option4": "Puhdistaa hampaita."
+    },
+    {
+        "question": "Kuiva suu voi johtua..?",
+        "option1": "Alkoholista, tupakasta, lääkkeistä tai jostakin sairaudesta.",
+        "option2": "Reijästä hampaassa.",
+        "option3": "Ientulehduksesta.",
+        "option4": "Vääränlaisesta ruokavaliosta."
+    },
+    {
+        "question": "Kuinka monta kertaa sylki torjuu happohyäkkäyksen vuorokaudessa?",
+        "option1": "5-6 kertaa vuorokaudessa",
+        "option2": "Kerran vuorokaudessa",
+        "option3": "Koko ajan",
+        "option4": "2-4 kertaa vuorokaudessa"
+    }
+    ],
+"medium" : [
+
+{
+        "question": "Mikä on eroosio?",
+        "option1": "Hampaan pinnan liukenemista",
+        "option2": "luut kuluu",
+        "option3": "hampaan kylmettyminen",
+        "option4": "erillinen hampaan osa"
+    },
+    {
+        "question": "Montako kertaa päivässä tulisi ruokailla?",
+        "option1": " 5 kertaa päivässä",
+        "option2": "3 kertaa päivässä",
+        "option3": "2 kertaa päivässä",
+        "option4": "8 kertaa päivässä"
+    },
+    {
+        "question": "Mitä suussa tapahtuu kun syät sokeria?",
+        "option1": "Hammas liukenee",
+        "option2": "Hammas vahvistuu",
+        "option3": "Ei mitään",
+        "option4": "Hammas kovettuu"
+    },
+    {
+        "question": "Mikä on ientulehdus?",
+        "option1": "ien sairaus",
+        "option2": "rakko ikenessä",
+        "option3": "huuli halkio",
+        "option4": "sininen patti"
+    },
+    {
+        "question": "Miksi ikenistä voi harjatessa vuotaa verta?",
+        "option1": "Ien on tulehtunut",
+        "option2": "liikaa harjausta",
+        "option3": "harjasit ientä",
+        "option4": "harja on huono"
+    },
+    {
+        "question": "Mitä streptococcus mutans bakteeri aiheuttaa suussa?",
+        "option1": "reikiä",
+        "option2": "parantaa suuta",
+        "option3": "juo vettä",
+        "option4": "poistaa plakkia"
+    },
+    {
+        "question": "Miten karies bakteeri tarttuu?",
+        "option1": "sylkikontaktista",
+        "option2": "bakteeri on kaikilla",
+        "option3": "kätellessä",
+        "option4": "ilmasta"
+    },
+    {
+        "question": "Miksi hammasvälejä tulisi puhdistaa?",
+        "option1": "plakin poistamiseksi",
+        "option2": "ei tarvitse puhdistaa",
+        "option3": "jos väliin on juuttunut jotain",
+        "option4": "tummumien vuoksi"
+    },
+    {
+        "question": "Montako pysyvää hammasta ihmisellä on?",
+        "option1": "32",
+        "option2": "28",
+        "option3": "24",
+        "option4": "40"
+    },
+    {
+        "question": "Mitä kuiva suu aiheuttaa?",
+        "option1": "Limakalvojen arkuuttaa ja edes auttaa reikiintymistä.",
+        "option2": "Kuiva suu ei aiheuta ongelmia.",
+        "option3": "Kuva suu aiheuttaa pelkästään ongelmia suudellessa.",
+        "option4": "Kuiva suu aiheuttaa hampiden tippumisen."
+    },
+    {
+        "question": "Minkä on syljen tarkoitus?",
+        "option1": "Huuhtoa ruoka suusta pois ja neutraloida happohyäkkäys.",
+        "option2": "Sylki on arkoitettu suutelua varten.",
+        "option3": "Sylki tuhoaa kaikki bakteerit suusta.",
+        "option4": "Syljellä ihminen on aikoinaan puhdistannut itseään, mutta nyky päivänä sitä ei enää tarvita."
+    },
+    {
+        "question": "Mitä on plakki?",
+        "option1": "Bakteerimassaa hampaan pinnaalla.",
+        "option2": "Hammaskiveä.",
+        "option3": "Planktonit suussa.",
+        "option4": "Ruuan jämät suussa."
+    },
+    {
+        "question": "Miksi plakki täytyy poistaa päivittäin?",
+        "option1": "Jotta ei tulisi riekää hampaaseen eikä muodostuisi hammaskiveä.",
+        "option2": "Jotta hampaat pysyvät valkoisena.",
+        "option3": "Jotta ruoka maistuisi paremmalta.",
+        "option4": "Jotta hengitys ei haisisi."
+    },
+    {
+        "question": "Kuinka plakki poistetaan?",
+        "option1": "Hammasharjalla harjaamalla ja hammasvälit langalla puhdistamalla.",
+        "option2": "Suuvedellä.",
+        "option3": "Purkkaa syämällä.",
+        "option4": "Coctailtikuilla."
+    },
+    {
+        "question": "Jos plakkia ei poisteta, miksi se muuttuu?",
+        "option1": "Hammaskiveksi.",
+        "option2": "Syljeksi.",
+        "option3": "Fluoriksi.",
+        "option4": "Suojaksi hampaan kiilteelle."
+    },
+    {
+        "question": "Voitko itse poistaa hammaskiven?",
+        "option1": "Et voi.",
+        "option2": "Kyllä voit.",
+        "option3": "Sitä ei tarvitse poistaa.",
+        "option4": "Suuvesi huuhtoo hammaskiven pois."
+    },
+    {
+        "question": "Onko hampaat aina valkoiset ja mikä niitä värjää?",
+        "option1": "Ei ole.",
+        "option2": "Kyllä on.",
+        "option3": "Hampaat värjaytyvät pelkästään kahvin juonnilla.",
+        "option4": "Eri maassa asuvilla ihmisillä on eri väriset hampaat."
+    },
+    {
+        "question": "Mistä hammas koostuu?",
+        "option1": "Kiilteestä, hammasluusta ja  hamaapan ytimestä (verisuonet).",
+        "option2": "Hammasluusta.",
+        "option3": "Pelkästä kiiltteestä.",
+        "option4": "Kiilteestä ja hammasluusta."
+    },
+    {
+        "question": "Mikä on kiille?",
+        "option1": "Ihmisen kovin kudos.",
+        "option2": "Täysin samaa kuin luusto.",
+        "option3": "Kovettunnutta sylkeä.",
+        "option4": "Samaa materiaali kuin kynsi."
+    },
+    {
+        "question": "",
+        "option1": "",
+        "option2": "",
+        "option3": "",
+        "option4": ""
+    },
+    {
+        "question": "Voiko alkavaa reikää hampaassa pysäyttää?",
+        "option1": "Kyllä voi.",
+        "option2": "Ei missän nimessä, se täytyy aina paikata.",
+        "option3": "Voi pysähtyä, mutta sen alle voi tulla uusi reikä.",
+        "option4": "Maitoa juomalla voi alkavan reijän pysäyttää."
+    },
+    {
+        "question": "Mikä on alkava reikä?",
+        "option1": "Kiilteessä oleva reikä.",
+        "option2": "Reikä joka on läpäissyt kiilteen, mutta ei ole vielä hampaan ytimessä.",
+        "option3": "Hampaassa oleva uurre.",
+        "option4": "Sama kuin hammaskivi."
+    },
+    {
+        "question": "Voivatko seksitaudit tarttua suuhun?",
+        "option1": "Kyllä voi.",
+        "option2": "Ei voi.",
+        "option3": "Seksitaudit voivat vain tarttua huuliin.",
+        "option4": "Sylki tappaa kaikki taudit."
+    },
+    {
+        "question": "Kuinka seksitaudit voivat tarttua suuhun?",
+        "option1": "Suunlimakalvon kosketuksella tautia kantavaan limakalvoon.",
+        "option2": "Maauimalan kloorittomasta vedestä.",
+        "option3": "Periytymällä.",
+        "option4": "Ravintolan haarukoista ja lusikoista."
+    },
+    {
+        "question": "Voiko sukupuoliherpes tarttua suuhun?",
+        "option1": "Kyllä voi.",
+        "option2": "Ei voi.",
+        "option3": "En tiedä.",
+        "option4": "Toivottavasti ei."
+    },
+    {
+        "question": "Kuinka sukupuoliherpes voi tarttua suuhun?",
+        "option1": "Suojaamattomalla limakalvojen kosketuksella.",
+        "option2": "Suojaamattomalla yhdynnällä. ",
+        "option3": "Uimahallin vedestä.",
+        "option4": "Vessanpäntän istuimelta."
+    },
+    {
+        "question": "Mitä ovat aftat?",
+        "option1": "Vaalea punareunainen kipeä laikku suussa.",
+        "option2": "Vesikelloja suusa.",
+        "option3": "Ylimääräinen hammas.",
+        "option4": "Yskänrokko suussa."
+    },
+    {
+        "question": "Kuinka suun lävistyksiä tulisi hoitaa?",
+        "option1": "Päivittäisellä huolellisella suuhygienialla, sekä tarvittaessa merisuolaliuos purskuttelulla.",
+        "option2": "Ei kuinkaan, sylki desinfioi lävistystä.",
+        "option3": "Joka päiväisellä desinfioinnilla",
+        "option4": "Alkoholia sisältävällä suuvedellä purskuttelu riittää."
+    },
+    {
+        "question": "Mitä suun lävistykset voivat aiheuttaa hoitamattomina?",
+        "option1": "Tulehduksia",
+        "option2": "Ei mitään",
+        "option3": "Reikiä hampaisiin",
+        "option4": "Suusyäpää"
+    },
+    {
+        "question": "Kuinka usein hammasvälejä tulisi puhdistaa?",
+        "option1": "2 kertaa viikossa",
+        "option2": "2 kertaa päivässä",
+        "option3": "kerran viikossa",
+        "option4": "hammasvälejä ei tarvitse puhdistaa."
+    }
+	],
+
+"difficult" : [
+
+{
+        "question": "Mistä suuhun muodostuu hammaskiveä?",
+        "option1": "plakista",
+        "option2": "ruuasta",
+        "option3": "juomasta",
+        "option4": "sokerista"
+    },
+    {
+        "question": "Miksi hammaskivi pitää poistaa?",
+        "option1": "Se voi johtaa ientulehdukseen",
+        "option2": "Hammaskiveä ei tarvitse poistaa",
+        "option3": "hammaskivi estää syämisen",
+        "option4": "harjaaminen ei muuten onnistu"
+    },
+    {
+        "question": "Millä hammasvälejä tulisi puhdistaa?",
+        "option1": "Hammaslangalla",
+        "option2": "suuvesi",
+        "option3": "hammastahnalla",
+        "option4": "hammasharjalla"
+    },
+    {
+        "question": "Onko sähkähammasharja parempi kuin käsiharja?",
+        "option1": "Kyllä",
+        "option2": "Ei",
+        "option3": "Ei ole väliä kumpaa käyttää",
+        "option4": "Käsiharja on parempi"
+    },
+    {
+        "question": "Milloin hammasharja tulisi vaihtaa?",
+        "option1": "n, 3kk välein",
+        "option2": "viikon välein",
+        "option3": "vuoden välein",
+        "option4": "kun harjaksia ei ole"
+    },
+    {
+        "question": "Voitko lainata muiden hammasharjaa?",
+        "option1": "Ei",
+        "option2": "Kyllä",
+        "option3": "äidin voi",
+        "option4": "Sisarusten voi"
+    },
+    {
+        "question": "Miksi sinun tulisi käydä hammaslääkärissä säännällisesti?",
+        "option1": "Suunterveyden ammattilainen voi arvioida suun terveyden",
+        "option2": "äiti käskee",
+        "option3": "Huvin vuoksi",
+        "option4": "Muuten hampaat tippuu"
+    },
+    {
+        "question": "Milloin sinua ei enää kutsuta vastaanotolle vaan varaat ajan itse?",
+        "option1": "17-vuotiaana",
+        "option2": "12-vuotiaana",
+        "option3": "18-vuotiaana",
+        "option4": "aina"
+    },
+    {
+        "question": "Aiheuttaako tupakointi hampaiden värjääntymistä?",
+        "option1": "Kyllä",
+        "option2": "ei",
+        "option3": "ehkä",
+        "option4": "Tupakka valkaisee hampaita"
+    },
+    {
+        "question": "Suun lävistyksiin liittyviä riskejä ovat:",
+        "option1": "Ikenien vetäytyminen, hampaiden lohkeaminen ja tulehdukset",
+        "option2": "Ei ole riskejä",
+        "option3": "äiti voi suuttua",
+        "option4": "Kielen kipeytyminen, suulaen punoitus ja ikenien värjääntyminen ruskeaksi"
+    },
+    {
+        "question": "Mitä jatkuva napostelu aiheuttaa hampaille?",
+        "option1": "Reikiintymistä",
+        "option2": "Ei mitään",
+        "option3": "Sokerihumalan",
+        "option4": "Hampaiden tippumista"
+    },
+    {
+        "question": "Kuinka kauan ksylitolipurukumia tulisi pureskella että siitä on hyätyä hampaille?",
+        "option1": "5-10 minuuttia",
+        "option2": "Koko päivä",
+        "option3": "2 tuntia",
+        "option4": "15min"
+    },
+    {
+        "question": "Mitä liiallinen ksylitolipurukumin pureskeleminen voi aiheuttaa?",
+        "option1": "Vatsavaivoja ja leuan kipeytymistä",
+        "option2": "Kuumetta",
+        "option3": "Niskakipua ja nenäntukkeutumista",
+        "option4": "Ei mitään"
+    },
+    {
+        "question": "Sisältävätkä sipsit sokeria?",
+        "option1": "Eivät",
+        "option2": "Kyllä",
+        "option3": "Ehkä",
+        "option4": "Sipsit sisältävät rasvaa"
+    },
+    {
+        "question": "Sisältävätkä maustettu kivennäisvesi ja tavallinen kivennäisvesi samoja aineita?",
+        "option1": "Eivät",
+        "option2": "Kyllä",
+        "option3": "Samaa kuin vesi",
+        "option4": "Melkein samoja aineita"
+    },
+    {
+        "question": "Mikä tuoteselosteessa kertoo tuotteen sokerin määrän?",
+        "option1": "Hiilihydraattien määrä",
+        "option2": "Rasvan määrä",
+        "option3": "Vitamiinien määrä",
+        "option4": "Tyydyttyneiden rasvahappojen määrä"
+    },
+    {
+        "question": "Kauanko hampaiden pesun tulisi kestää?",
+        "option1": "Vähintään 2 minuuttia",
+        "option2": "30 minuuttia",
+        "option3": "1 tunti",
+        "option4": "10 minuuttia"
+    },
+    {
+        "question": "Onko suuveden käyttä välttämätäntä?",
+        "option1": "Ei",
+        "option2": "Kyllä",
+        "option3": "Riippuu suuvedestä",
+        "option4": "Vain silloin kun jättää hampaat harjaamatta"
+    },
+    {
+        "question": "Onko hampaiden reikiintyminen perinnällistä?",
+        "option1": "Ei",
+        "option2": "Kyllä",
+        "option3": "Vain äidiltä periytyvät reikiintyvät hampaat",
+        "option4": "Vain isältä periytyvät reikiintyvät hampaat"
+    },
+    {
+        "question": "Onko parempi syädä aamupala ennen vai jälkeen hampaiden harjauksen?",
+        "option1": "Jälkeen",
+        "option2": "Ennen",
+        "option3": "Aamulla ei pestä hampaita",
+        "option4": "Samaan aikaan"
+    },
+    {
+        "question": "Miten syämishäiriä näkyy suussa?",
+        "option1": "Eroosiona",
+        "option2": "Ei mitenkään",
+        "option3": "Kielen värjäytymisenä",
+        "option4": "Karieksena"
+    },
+    {
+        "question": "Kuinka usein sinun tulisi käydä hammastarkastuksissa?",
+        "option1": "Yksiläkohtaista",
+        "option2": "Kerran viikossa",
+        "option3": "Joka 10. vuosi",
+        "option4": "Aina kun äiti käskee"
+    },
+    {
+        "question": "Mitä teet kun hammastasi särkee?",
+        "option1": "Varaan ajan hammaslääkärille",
+        "option2": "En mitään.",
+        "option3": "Odotan että särky menee itsestään ohi.",
+        "option4": "Soitan 112"
+    },
+    {
+        "question": "Mitä tulisi välttää jos hampaita vihloo?",
+        "option1": "Kovaa hammasharjaa ja hankaavaa hammastahnaa",
+        "option2": "Lämpimiä ruokia/juomia",
+        "option3": "Pehmeää hammasharjaa",
+        "option4": "Kovia ruokia"
+    },
+    {
+        "question": "Voiko terve hammas vihloa?",
+        "option1": "Kyllä",
+        "option2": "Ei",
+        "option3": "Joskus",
+        "option4": "Kaikki hampaat vihlovat"
+    },
+    {
+        "question": "Urheilujuoma ei vaikuta hampaiden reikiintymiseen.",
+        "option1": "Väärin",
+        "option2": "Oikein",
+        "option3": "Vaikuttaa vain iltaisin",
+        "option4": "Vaikuttaa vain aamuisin"
+    },
+    {
+        "question": "Nuuska ei ole suulle yhtä paha kuin tupakka.",
+        "option1": "Väärin",
+        "option2": "Totta",
+        "option3": "Yhtä pahoja",
+        "option4": "Nuuskassa ei ole huonoja vaikutuksia"
+    },
+    {
+        "question": "Mehu on hampaiden terveydelle parempi vaihtoehto kuin limu.",
+        "option1": "Väärin",
+        "option2": "Totta",
+        "option3": "Mehu ei vaikuta hampaisiin",
+        "option4": "Limu ei vaikuta hampaisiin"
+    },
+    {
+        "question": "Millaisissa tilanteissa on suositeltavaa käyttää hammassuojia?",
+        "option1": "Jääkiekkoa ja kontaktilajeja harrastettaessa",
+        "option2": "Nukuttaessa",
+        "option3": "Koulussa",
+        "option4": "Syädessä"
+    },
+    {
+        "question": "Kuinka puhdistat hammassuojat?",
+        "option1": "Harjaamalla hammasharjalla",
+        "option2": "En puhdista",
+        "option3": "Huuhtelemalla vedellä",
+        "option4": "Kaverin suussa"
+    },
+    {
+        "question": "Ksylitolipurukumin pureskelulla voi korvata hampaiden harjauksen.",
+        "option1": "Ei",
+        "option2": "Kyllä",
+        "option3": "Jos sen syä aamulla",
+        "option4": "Jos sen syä illalla"
+    },
+    {
+        "question": "Light-juoma ei aiheuta reikiintymistä.",
+        "option1": "Väärin",
+        "option2": "Oikein",
+        "option3": "Vain tietyt light-juomat",
+        "option4": "Ne korjaavat reikiä"
+    },
+    {
+        "question": "Voiko hampaassa oleva reikä tarttua muihin hampaisiin?",
+        "option1": "Kyllä",
+        "option2": "Ei",
+        "option3": "Hampaaseen ei voi tulla reikiä",
+        "option4": "Vain yksi hammas kerrallaan voi reikiintyä"
+    },
+    {
+        "question": "Mihin hampaita ei tarvita.",
+        "option1": "nieleminen",
+        "option2": "syäminen",
+        "option3": "puhuminen",
+        "option4": "pureminen"
+    },
+    {
+        "question": "Verta vuotavia ikeniä ei saa harjata.",
+        "option1": "Väärin",
+        "option2": "Oikein",
+        "option3": "Ikenet eivät voi vuotaa verta",
+        "option4": "Veri kertoo että harjaat liian kovaa"
+    },
+    {
+        "question": "Hampaita ei voi harjata liian kovaa.",
+        "option1": "Väärin",
+        "option2": "Oikein",
+        "option3": "Hampaita ei kuulu harjata",
+        "option4": "Hampaat pitää harjata niin kovaa kuin pystyy"
+    },
+    {
+        "question": "Hampaat eivät voi reikiintyä nuorella niin pahasti että ne pitää poistaa.",
+        "option1": "Väärin",
+        "option2": "Oikein",
+        "option3": "Maitohampaat eivät reikiinny",
+        "option4": "Vain vanhojen ihmisten hampaat reikiintyvät"
+    },
+    {
+        "question": "Paikattu hammas on yhtä hyvä kuin paikkaamaton.",
+        "option1": "Väärin",
+        "option2": "Oikein",
+        "option3": "Hampaita ei voi paikata",
+        "option4": "Parempi"
+    },
+    {
+        "question": "Mistä et saa fluoria?",
+        "option1": "Banaanista",
+        "option2": "Hammastahnasta",
+        "option3": "Fluoritableteista",
+        "option4": "Juomavedestä"
+    },
+    {
+        "question": "Mitä tupakointi voi pahimmillaan aiheuttaa suussa?",
+        "option1": "suusyäpää",
+        "option2": "tupakointi ei vaikuta suuhun",
+        "option3": "parantaa suuhygieniaa",
+        "option4": "tappaa bakteereita"
+    }
+
+	]
+}
+}

@@ -1,0 +1,286 @@
+html, body {
+	
+	font-size: 1.143em;
+	  font-family: Arial;
+
+	  background-size: 100% 120%;
+	  background-repeat: no-repeat;
+
+	    }
+header{
+	background: #585858;
+	height: 70px;
+	color:#fff;
+	font-size: 100%;
+}
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(font_family/KBAStitchInTime.ttf);
+}
+
+
+#indexB
+{
+	
+
+}
+#homeB
+{
+
+	background-image: url(img/head.png) no-repeat;
+}
+body{
+    
+	position: relative;
+	margin: 0 auto;
+	}
+a{text-decoration: none;color: #fff;}
+.mainHeader nav li {padding-top:20px;}
+.mainHeader nav li p {padding-left: 500px;}
+.mainHeader
+   {
+   	width: 100%;
+   	background-color: white;
+   	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+   }
+.mainHeader nav {
+	
+	font-size: 1.143em;
+	height: 70px;
+	line-height: 30px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+	
+.mainHeader nav ul {
+	list-style: none; 
+	margin: 0 auto;
+}
+
+.mainHeader nav ul li {
+	float: left; 
+	display: inline; 
+}
+	
+.mainHeader nav a:link, .mainHeader nav a:visited {
+	
+	display: inline-block;
+	height: 30px;
+	padding: 5px 23px;
+	text-decoration: none;
+}
+.mainHeader nav a:hover, .mainHeader nav a:active,
+.mainHeader nav .active a:link, .mainHeader nav .active a:visited {
+	
+	text-shadow: none !important;
+}
+	
+.mainHeader nav li a {
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.mainHeader nav li img
+{
+
+	height: 40px;
+}
+#navContent
+{
+margin:auto;	
+width:1000px;
+height: 530px;
+padding: 10px;
+background-color: #3399FF;
+background-image: url(img/bg.png);
+background-size: 1020px 550px;
+position:relative;
+overflow:hidden;
+border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#game1{
+margin:auto;
+width:800px;
+height:500px;
+right:0px;
+position:absolute;
+margin-right:10%;
+margin-top:5%;
+}
+
+
+#game2{
+margin:auto;
+width:800px;
+height:500px;
+right:-800px;
+position:absolute;
+margin-right:10%;
+margin-top:5%;	
+} 
+
+.questionText{
+	margin-top: 25px;
+	margin-bottom: 10px;
+	width: 715px;
+
+	color:  #6f1b1d;
+	font-size: bold;
+	text-align: center;
+    font-size:35px;
+    border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+p{
+	font-size: 30px;
+	
+}
+.myGrade
+{
+	font-size: 30px;
+}
+.option
+{
+width:150px;
+height:120px;
+margin:5px; /* extenal distance between choices */
+font-size:18px;
+color:#6f1b1d; 
+opacity: 0.8;
+padding-top:15px;
+float: left;
+display: inline;
+text-align: center;
+padding-left:10px;
+border: 2px solid white;
+cursor:pointer;
+background-color: #ffdc4c;
+border-color: #6f1b1d;
+border-width: 5px;
+border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	
+
+}
+
+/*
+.option:hover{
+border:#FC0 solid 2px;
+color:#FC0;
+}
+
+*/
+
+#topbar{
+height: 60px;
+background-color: white;
+text-align: center;
+margin: auto;
+padding: 5px;
+width: 1000px;
+font-size:36px;
+font-weight: bold;
+/*border:10px solid black; */
+}
+
+#home_icon{
+float:left;
+margin-top:1%;
+margin-left:10%;
+}
+
+#score{
+font-family:VT323;
+float:right;
+margin-top:10px;
+
+}
+#bar{
+width:60%;
+}
+ 
+.spacer{
+height:10px;
+}
+
+.stars{
+margin-top:10%;
+margin-left:20%;}
+ 
+
+
+
+
+.feedback1{
+width:250px;
+padding:5px;
+margin-top: 30px;
+font-size:30px;
+background-color:#009900;
+font-family:Arial, Helvetica, sans-serif;
+text-align:center;
+border-radius: 5px;
+
+}
+
+.feedback2{
+width:250px;
+
+padding:5px;
+margin-top: 30px;
+font-size:30px;
+color:#FFFFCC;
+background-color:#CC3300;
+font-family:Arial, Helvetica, sans-serif;
+text-align:center;
+border-radius: 5px;
+
+}
+
+#scoreBar{
+width:150px;
+margin-top: 150px;
+margin-left: 400px;
+font-size:30px;
+color: white;
+font-family:Arial, Helvetica, sans-serif;
+text-align:center;
+}
+ 
+#replay
+{
+	width: 60px;
+	height: 60px;
+margin-top: 50px;
+	cursor: pointer;
+	
+}
+#nextLevel{
+	width: 60px;
+	height: 60px;
+}
+ 
+@media screen and (max-width:800px) {
+	#topbar{margin-left:1%;margin-right:1%;	width:96%;}
+	#navContent{margin:1%;	width:98%;}
+	#game1{margin:1%;	width:98%;}
+	#game2{margin:1%;	width:98%;}
+
+
+}
+@media screen and (max-width:500px) {
+	.option{width:80%;margin:5%;}
+}
